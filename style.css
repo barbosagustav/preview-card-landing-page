@@ -1,0 +1,66 @@
+* {font-family: 'Montserrat'}
+
+body {background: #f3eae3;}
+
+#geral {display: inline-block;
+		width: 600px;
+		background: white;
+		margin-top: 100px;
+		border-radius: 10px;}
+
+.informação {width: 240px;
+		 	float: right;
+		 	margin: 20px;
+		 	 text-align: left;
+		 	 position: relative;}
+
+
+img {width: 300px;
+	float: left;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px}
+
+
+.centralizar {text-align: center;}
+
+
+.float {float: right;}
+
+h1 {line-height: 1px;}
+
+
+input {font-size: 15px;
+	border: none;
+	 border-radius: 10px;
+	color: white;
+	padding: 10px;
+	padding-right: 70px;
+	padding-left: 70px;
+	background: #3d8168;
+	position: relative; top: 50px;}
+
+
+
+.preco {color: #9c9ca4;
+		font-size: 15px;
+		position: relative;
+		left: 30px;
+		text-decoration: line-through;}
+
+
+.tam {font-size: 12px;
+	  color: #9c9ca4;}
+
+p {color: #9c9ca4;
+	position: relative; top: 40px;}
+
+
+h1 p {color: black;}
+
+h2 {color: #3d8168;
+	position: relative; top: 60px;
+	font-size: 26px}
+
+
+
+div>span {position: relative; top: 45px;}
